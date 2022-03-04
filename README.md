@@ -1,6 +1,6 @@
 # Balapan Game
 
 ## Builds
-File Aplikasi(.Apk) Ada di folder Build
+File Aplikasi(.exe) Ada di folder Build
 
 
